@@ -1,4 +1,4 @@
-![logo](https://thumbs.dreamstime.com/z/artificial-intelligence-future-concept-businessman-holding-abstract-digital-brain-interface-black-background-artificial-105098708.jpg)
+![logo](https://thumbs.dreamstime.com/z/ai-artificial-intelligence-machine-learning-big-data-analysis-automation-technology-business-industrial-manufacturing-132528154.jpg?w=1200)
 
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A dedicated professional in the field of data scientist and a skilled data science analytics.</h3>
