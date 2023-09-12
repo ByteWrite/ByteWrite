@@ -1,4 +1,5 @@
-![logo]([https://thumbs.dreamstime.com/b/machine-learning-vector-banner-word-line-icon-machine-learning-vector-banner-word-line-icon-vector-background-117806401.jpg]
+![logo](https://thumbs.dreamstime.com/b/machine-learning-vector-banner-word-line-icon-machine-learning-vector-banner-word-line-icon-vector-background-117806401.jpg)
+
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A dedicated professional in the field of data scientist and a skilled data science analytics.</h3>
 
